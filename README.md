@@ -1,2 +1,2 @@
-# algebra_with_python
+# Algebra With Python
 Algebra
